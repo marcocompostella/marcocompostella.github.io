@@ -122,7 +122,7 @@ events:
     description: "University degree"
   - image: "/img/timeline/11_ccna.jpg"
     date: "May 2005"
-    description: "CISCO CCNA certification"
+    description: "CISCO CCNA certificated"
   - image: "/img/timeline/10_diploma.jpg"
     date: "September 2000 - June 2005"
     description: "High school diploma"
