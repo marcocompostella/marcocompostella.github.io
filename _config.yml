@@ -104,31 +104,31 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/50_ap.jpg"
+  - image: "/img/timeline/50_apb.jpg"
     date: "Dicemeber 2015 - Today"
     description: "Work as Senjor Software Analist"
-  - image: "/img/timeline/41_app.jpg"
+  - image: "/img/timeline/41_appb.jpg"
     date: "June 2015"
     description: "Win competition with my first Android app"
-  - image: "/img/timeline/40_sp.png"
+  - image: "/img/timeline/40_spb.png"
     date: "September 2012 - Dicember 2015"
     description: "Work as Software Analist"
-  - image: "/img/timeline/30_work.png"
+  - image: "/img/timeline/30_workb.png"
     date: "October 2010 - Today"
     description: "Started work for Accenture"
     
-  - image: "/img/timeline/20_university.jpg"
+  - image: "/img/timeline/20_universityB.jpg"
     date: "December 2009"
     description: "University degree"
-  - image: "/img/timeline/11_ccna.jpg"
+  - image: "/img/timeline/11_ccnab.jpg"
     date: "May 2005"
     description: "CISCO CCNA certificated"
-  - image: "/img/timeline/10_diploma.jpg"
+  - image: "/img/timeline/10_diplomab.jpg"
     date: "September 2000 - June 2005"
     description: "High school diploma"
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/defaultb.png"
 
 ###########
 # Contact #
