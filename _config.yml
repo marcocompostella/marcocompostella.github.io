@@ -22,7 +22,7 @@ google-tracking-id: ""
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: false
 
 #############
 # HTML Head #
@@ -110,10 +110,10 @@ events:
   - image: "/img/timeline/41_appb.jpg"
     date: "June 2015"
     description: "Win competition with my first Android app"
-  - image: "/img/timeline/40_spb.png"
+  - image: "/img/timeline/40_spb.jpg"
     date: "September 2012 - Dicember 2015"
     description: "Work as Software Analist"
-  - image: "/img/timeline/30_workb.png"
+  - image: "/img/timeline/30_workb.jpg"
     date: "October 2010 - Today"
     description: "Started work for Accenture"
     
@@ -128,7 +128,7 @@ events:
     description: "High school diploma"
 # First image of the Timeline
 
-timeline-img: "/img/timeline/defaultb.png"
+timeline-img: "/img/timeline/defaultb.jpg"
 
 ###########
 # Contact #
